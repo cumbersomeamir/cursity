@@ -1,0 +1,41 @@
+# Unity (generated / huge)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Recordings/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Unity cache / artifacts
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pid
+
+# Addressables / AssetBundles (if created)
+AssetBundles/
+StreamingAssets/aa/
+
+# Local renders / outputs (generated)
+outputs/
+*.mp4
+*.mov
+*.mkv
+
+
